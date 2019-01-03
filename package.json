@@ -1,0 +1,17 @@
+{
+  "name": "prntscr-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prntscr-scrapper.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cherio": "^1.0.0-rc.2",
+    "image-downloader": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rez",
+  "license": "ISC"
+}
