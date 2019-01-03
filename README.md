@@ -1,5 +1,5 @@
 # prntscr-scrapper
-https://prntscr.com/ random pics scrapper
+https://prntscr.com/ random pics scrapper built with Node JS
 
 # Installation
 
