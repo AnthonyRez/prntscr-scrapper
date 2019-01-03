@@ -16,6 +16,7 @@ Run in terminal
 ```bash
 $ node prntscr-scrapper.js [number of threads (optional)]
 ```
+Images will be saved to ./images/ folder
 
 # Example
 
